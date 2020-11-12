@@ -124,6 +124,13 @@ python train_ssd_network.py --train_dir=./train_model/ --dataset_dir=./tfrecords
 
 训练结束可以在`train_model`文件夹下看到生成的参数文件；
 
+## 10.训练查看
+
+```html
+tensorboard --logdir=train_model --host=127.0.0.1
+```
+
+
 # 后续工作
 
 - 模型ckpt转化为pb；
