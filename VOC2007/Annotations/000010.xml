@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<filename>r1p00017o8171pnq407_jpg.rf.6fd25b7219a249e97f54fcabf2b52726.txt</filename>
+		<path>test\labels\r1p00017o8171pnq407_jpg.rf.6fd25b7219a249e97f54fcabf2b52726.txt</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>416</width>
+			<height>416</height>
+			<depth>3</depth>
+		</size>
+		<folder>r1p00017o8171pnq407_jpg.rf.6fd25b7219a249e97f54fcabf2b52726.txt</folder>
+		<object>
+			<name>mask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>161</xmin>
+				<ymin>5</ymin>
+				<xmax>251</xmax>
+				<ymax>127</ymax>
+			</bndbox>
+		</object>
+	</annotation>

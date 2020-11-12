@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<filename>1303078448-China-Coronavirus-Death-Toll-Hits-304_jpg.rf.353f9ffe10e6823c6c363687d88441ba.txt</filename>
+		<path>train\labels\1303078448-China-Coronavirus-Death-Toll-Hits-304_jpg.rf.353f9ffe10e6823c6c363687d88441ba.txt</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>416</width>
+			<height>416</height>
+			<depth>3</depth>
+		</size>
+		<folder>1303078448-China-Coronavirus-Death-Toll-Hits-304_jpg.rf.353f9ffe10e6823c6c363687d88441ba.txt</folder>
+		<object>
+			<name>mask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>121</xmin>
+				<ymin>99</ymin>
+				<xmax>200</xmax>
+				<ymax>208</ymax>
+			</bndbox>
+		</object>
+	</annotation>

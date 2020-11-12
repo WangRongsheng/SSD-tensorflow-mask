@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<filename>1579683152-0e3ba5698b090c0fda95caa5d2aa7b31_jpg.rf.b49395264ccc2be2784ab367a8ac1307.txt</filename>
+		<path>train\labels\1579683152-0e3ba5698b090c0fda95caa5d2aa7b31_jpg.rf.b49395264ccc2be2784ab367a8ac1307.txt</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>416</width>
+			<height>416</height>
+			<depth>3</depth>
+		</size>
+		<folder>1579683152-0e3ba5698b090c0fda95caa5d2aa7b31_jpg.rf.b49395264ccc2be2784ab367a8ac1307.txt</folder>
+		<object>
+			<name>mask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>225</xmin>
+				<ymin>53</ymin>
+				<xmax>340</xmax>
+				<ymax>190</ymax>
+			</bndbox>
+		</object>
+	</annotation>

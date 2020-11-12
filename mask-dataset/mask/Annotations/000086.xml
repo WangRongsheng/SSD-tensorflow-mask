@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<filename>IMG_5690 2_jpg.rf.77600927c589b6817b9ac8349615381f.txt</filename>
+		<path>train\labels\IMG_5690 2_jpg.rf.77600927c589b6817b9ac8349615381f.txt</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>416</width>
+			<height>416</height>
+			<depth>3</depth>
+		</size>
+		<folder>IMG_5690 2_jpg.rf.77600927c589b6817b9ac8349615381f.txt</folder>
+		<object>
+			<name>no-mask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>75</xmin>
+				<ymin>227</ymin>
+				<xmax>96</xmax>
+				<ymax>249</ymax>
+			</bndbox>
+		</object>
+		<object>
+			<name>mask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>218</xmin>
+				<ymin>165</ymin>
+				<xmax>267</xmax>
+				<ymax>229</ymax>
+			</bndbox>
+		</object>
+		<object>
+			<name>mask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>139</xmin>
+				<ymin>169</ymin>
+				<xmax>193</xmax>
+				<ymax>237</ymax>
+			</bndbox>
+		</object>
+	</annotation>

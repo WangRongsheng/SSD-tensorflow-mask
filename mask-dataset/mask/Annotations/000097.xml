@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<filename>r1000019q679o5611r7_jpg.rf.edff9783255fac6a6ee79a6e985c7af9.txt</filename>
+		<path>train\labels\r1000019q679o5611r7_jpg.rf.edff9783255fac6a6ee79a6e985c7af9.txt</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>416</width>
+			<height>416</height>
+			<depth>3</depth>
+		</size>
+		<folder>r1000019q679o5611r7_jpg.rf.edff9783255fac6a6ee79a6e985c7af9.txt</folder>
+		<object>
+			<name>mask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>135</xmin>
+				<ymin>3</ymin>
+				<xmax>245</xmax>
+				<ymax>120</ymax>
+			</bndbox>
+		</object>
+	</annotation>

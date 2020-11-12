@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<filename>Untitled-design-13_png.rf.612ee6f2911872a9bc2a7de326dea042.txt</filename>
+		<path>train\labels\Untitled-design-13_png.rf.612ee6f2911872a9bc2a7de326dea042.txt</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>416</width>
+			<height>416</height>
+			<depth>3</depth>
+		</size>
+		<folder>Untitled-design-13_png.rf.612ee6f2911872a9bc2a7de326dea042.txt</folder>
+		<object>
+			<name>mask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>200</xmin>
+				<ymin>167</ymin>
+				<xmax>283</xmax>
+				<ymax>253</ymax>
+			</bndbox>
+		</object>
+	</annotation>

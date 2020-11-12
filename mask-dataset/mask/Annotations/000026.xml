@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<filename>0109-00176-096b1_jpg.rf.c55de2d88f34d1217acdc245fd8292fa.txt</filename>
+		<path>valid\labels\0109-00176-096b1_jpg.rf.c55de2d88f34d1217acdc245fd8292fa.txt</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>416</width>
+			<height>416</height>
+			<depth>3</depth>
+		</size>
+		<folder>0109-00176-096b1_jpg.rf.c55de2d88f34d1217acdc245fd8292fa.txt</folder>
+		<object>
+			<name>mask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>177</xmin>
+				<ymin>24</ymin>
+				<xmax>288</xmax>
+				<ymax>150</ymax>
+			</bndbox>
+		</object>
+	</annotation>

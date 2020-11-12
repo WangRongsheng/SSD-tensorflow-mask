@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<filename>r1000019q669394n9qp_jpg.rf.827235a6fff02f26ce1320d926f9c5bd.txt</filename>
+		<path>valid\labels\r1000019q669394n9qp_jpg.rf.827235a6fff02f26ce1320d926f9c5bd.txt</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>416</width>
+			<height>416</height>
+			<depth>3</depth>
+		</size>
+		<folder>r1000019q669394n9qp_jpg.rf.827235a6fff02f26ce1320d926f9c5bd.txt</folder>
+		<object>
+			<name>mask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>166</xmin>
+				<ymin>18</ymin>
+				<xmax>257</xmax>
+				<ymax>121</ymax>
+			</bndbox>
+		</object>
+	</annotation>
